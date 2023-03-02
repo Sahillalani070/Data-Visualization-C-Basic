@@ -1,6 +1,6 @@
 ## SimpleView Reference Design
 
-Author: HBF
+Author: Sahil Lalani
 
 Date: 2021-10-06
 
